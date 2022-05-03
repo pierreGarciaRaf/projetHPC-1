@@ -1,0 +1,6 @@
+*.o
+*.mtx
+lanczos_modp
+checker_modp
+gen_uniform
+.vscode/*
